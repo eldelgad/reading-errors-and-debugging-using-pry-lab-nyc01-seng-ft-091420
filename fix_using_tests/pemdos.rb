@@ -6,4 +6,5 @@ def snake_it_up(string)
     puts "s" * 10
     
   end
+  puts string
 end
